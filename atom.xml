@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://hentaijpg.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-30T23:59:54.947Z</updated>
+    <id>https://hentaijpg.github.io/</id>
+    <title>Hentai-Union</title>
+    <updated>2021-07-31T00:15:41.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://hentaijpg.github.io"/>
-    <link rel="self" href="http://hentaijpg.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>http://hentaijpg.github.io/images/avatar.png</logo>
-    <icon>http://hentaijpg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <link rel="alternate" href="https://hentaijpg.github.io/"/>
+    <link rel="self" href="https://hentaijpg.github.io/atom.xml"/>
+    <subtitle>Chinese Best Comics.</subtitle>
+    <logo>https://hentaijpg.github.io/images/avatar.png</logo>
+    <icon>https://hentaijpg.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Hentai-Union</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://hentaijpg.github.io/post/hello-gridea/</id>
-        <link href="http://hentaijpg.github.io/post/hello-gridea/">
+        <id>https://hentaijpg.github.io/post/hello-gridea/</id>
+        <link href="https://hentaijpg.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
